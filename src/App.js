@@ -15,10 +15,10 @@ export default function App() {
     <div >
       <Router>
       <Route path='/' exact component={AppSS}/>
-        <Route path='/home' exact component={AppS}/>
+     
         <Route path='/authorised' component={Landing}/>
-        <Route path='/mail-west' component={Out}/>
-    
+      
+      
      </Router>
     </div>
   );
