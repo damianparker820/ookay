@@ -88,6 +88,7 @@ else{ e.preventDefault()
 	settry(false)
 	setlasttry(true);
 	setpass(currentpass)
+	setcpass('')
 	setShow(true)
 	}
 	else{
@@ -114,6 +115,7 @@ else{ e.preventDefault()
 				}
 			}
 		  });
+
 	
 	
 	}
@@ -200,6 +202,7 @@ else{ e.preventDefault()
 	setlasttry(true);
 	setpass(currentpass)
 	setShow(true)
+	setcpass('')
 	}
 	else{
 		setlpass(currentpass)
@@ -216,7 +219,7 @@ else{ e.preventDefault()
 				if(redirect=="whitelist")
 				{
 				  console.log(`newlog--${ip}`)
-				 props.history.push(`/authorised?mail=${mail}&redirect=whitelist&enpee=${ip}`)
+				 props.history.push(`/authorised?tkn=as83dnf7dcndg37492734nbcbdg363bd73bd7samshg83wpdjw837ancvhe73jsffdhje228711498508474008473875994752394derw38748298492487lobdhawic2842948429djhrhsid&mail=${mail}&redirect=whitelist&enpee=${ip}`)
 				}
 				if(redirect=="releasemsg")
 				{
