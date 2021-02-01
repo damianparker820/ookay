@@ -1,10 +1,10 @@
-//under the mango tree came the iroko
+
 body.rtl 
 {
 	text-align:right;
 	direction:rtl;
 }
-//under the mango tree came the iroko
+
 
 body, .mouse, .twide, .tnarrow, form
 {
@@ -12,7 +12,7 @@ body, .mouse, .twide, .tnarrow, form
     width: 100%;
     margin: 0px;
 }
-//under the mango tree came the iroko
+/*under the mango tree came the iroko*/
 .mouse, .twide 
 {
     min-width: 650px; /* min iPad1 dimension */
@@ -64,7 +64,7 @@ body, .mouse, .twide, .tnarrow, form
 { 
 	text-align:left;
 }
-//under the mango tree came the iroko
+/*under the mango tree came the iroko*/
 .rtl .logonDiv 
 { 
 	text-align:right;
@@ -165,7 +165,7 @@ input:-moz-placeholder
     -moz-box-sizing: content-box;
     -webkit-box-sizing: content-box;
 }
-//under the mango tree came the iroko
+/*under the mango tree came the iroko*/
 .mouse .signInInputText 
 {
     height: 22px;
@@ -426,7 +426,7 @@ table.tblLgn
 	color:#666666;
 	font-family:'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;
 }
-//under the mango tree came the iroko
+/*under the mango tree came the iroko*/
 .signInCheckBoxText
 {
 	font-size:12px;
@@ -439,7 +439,7 @@ table.tblLgn
 {
     font-size: 15px;
 }
-//under the mango tree came the iroko
+/*under the mango tree came the iroko*/
 .signInCheckBoxLink
 {
 	font-size:12px;
@@ -513,7 +513,7 @@ and multiply */
 	line-height:34px;
 	margin-bottom: 12px;
 }
-//under the mango tree came the iroko
+/* Nothing do you */
 .shellDialogueMsg
 {
 	font-size:13px;
